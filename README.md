@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **seaikh91@gmail.com**
 
-- 📄 Know about my experiences [Computer Science Engineering Student](Computer Science Engineering Student)
+- 📄 Know about my experiences [Computer Science Engineering Student]
 
 - ⚡ Fun fact **I'm the best developer**
 
