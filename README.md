@@ -4,8 +4,8 @@
   <h3>A passionate Full-Stack Web Developer & Java Enthusiast from West Bengal, India 🇮🇳</h3>
   
   <p>
-    <a href="https://github.com/your-github-username"><img alt="Followers" src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=000000"></a>
-    <a href="https://leetcode.com/your-leetcode-username/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="https://github.com/your-github-seaikh91-Asif"><img alt="Followers" src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=000000"></a>
+    <a href="https://leetcode.com/your-leetcode-Sekh_Asif_001/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   </p>
 </div>
 
@@ -74,10 +74,10 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="seaikh91@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/sekh asif">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
