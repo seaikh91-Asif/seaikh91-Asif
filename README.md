@@ -61,15 +61,23 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <h2>📊 GitHub Analytics & Coding Activity</h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f&icon_color=00f2fe" width="48%" alt="GitHub Stats" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f" width="48%" alt="Top Languages" />
+  </p>
+  
+  <br/>
 
-<br/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0D1117&ring=ff007f&fire=ff007f&currStreakNum=00f2fe" width="97%" alt="GitHub Streak" />
+  </p>
+</div>
 
 ## 🤝 Let's Connect!
 
