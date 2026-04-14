@@ -67,16 +67,23 @@
   <br/><br/>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f&icon_color=00f2fe" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f&icon_color=00f2fe&count_private=true" width="48%" alt="GitHub Stats" />
     
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff007f" width="48%" alt="Top Languages" />
   </p>
   
   <br/>
-
+  
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0D1117&ring=ff007f&fire=ff007f&currStreakNum=00f2fe" width="97%" alt="GitHub Streak" />
   </p>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" width="97%" alt="Activity Graph" />
+  </p>
+
 </div>
 
 ## 🤝 Let's Connect!
