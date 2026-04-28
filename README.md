@@ -56,6 +56,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Personal Portfolio** | A highly interactive portfolio with smooth scroll reveals, custom animations, and a working contact form using EmailJS. | `HTML`, `CSS`, `JS`, `EmailJS` |
+| **Responsive Delivery Website** | A modern, fully responsive delivery service landing page featuring a dark/light mode toggle and custom scroll animations. | `HTML`, `CSS`, `JS` |
 | **Food Lover App** | A responsive food delivery interface with modern UI elements and a focus on clean layout structures. | `React`, `CSS`, `JS` |
 | **Modern Coffee Site** | A visually appealing coffee shop landing page deployed seamlessly on Netlify. | `HTML`, `CSS`, `JS` |
 
