@@ -16,7 +16,7 @@
 - 🌱 I’m currently deep diving into **Full-Stack Development (React, JS)** and mastering **Java with a strong foundation in OOPs & DSA**.
 - 💻 Always building! Recently developed a **Modern Coffee Website** and currently refining a **Food Lover** delivery web app.
 - 🚀 Always ready for a challenge — recently participated in the **Innovate Arena** hackathon.
-- 🔥 On a constant grind on **LeetCode** (maintaining solid streaks and solving 100+ problems).
+- 🔥 On a constant grind on **LeetCode** (maintaining solid streaks and solving 50+ problems).
 - 🎨 Passionate about **UI/UX design**, responsive layouts, and bringing modern website aesthetics to life.
 - ⚡ Fun fact: I love crafting clean, interactive animations and making pixel-perfect user interfaces!
 
