@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/your-github-username"><img alt="Followers" src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=000000"></a>
-    <a href="https://leetcode.com/your-leetcode-username/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="https://[leetcode.com/your-leetcode-username/](https://leetcode.com/u/Asif_00CD/)"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   </p>
 </div>
 
