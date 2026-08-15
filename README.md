@@ -4,8 +4,11 @@
   <h3>A passionate Full-Stack Web Developer & Java Enthusiast from West Bengal, India 🇮🇳</h3>
   
   <p>
-    <a href="https://github.com/your-github-username"><img alt="Followers" src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=000000"></a>
+   <a href="https://asif-portfoliowebsite-e17f6e.netlify.app"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a>
     <a href="https://[leetcode.com/your-leetcode-username/](https://leetcode.com/u/Asif_00CD/)"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="https://linkedin.com/in/sekh-asif-dev"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2.5K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+    
+    
   </p>
 </div>
 
@@ -31,6 +34,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/OOPs-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ### Frontend & Libraries
@@ -38,6 +43,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Swiper_JS-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
+  
 </p>
 
 ### Tools & Environments
