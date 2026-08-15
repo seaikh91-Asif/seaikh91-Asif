@@ -5,7 +5,7 @@
   
   <p>
    <a href="https://asif-portfoliowebsite-e17f6e.netlify.app"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a>
-    <a href="[[https://[leetcode.com/your-leetcode-username/](https://leetcode.com/u/Asif_00CD/)](https://leetcode.com/u/Asif_00CD/)](https://leetcode.com/u/Asif_00CD/)"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+   <a href="https://leetcode.com/u/Asif_00CD/"> <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1480_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
     <a href="https://linkedin.com/in/sekh-asif-dev"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2.5K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
     
     
@@ -84,12 +84,7 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+ <a href="mailto:seaikh91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/sekh-asif-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/u/Asif_00CD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://asif-portfoliowebsite-e17f6e.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </div>
 
 
