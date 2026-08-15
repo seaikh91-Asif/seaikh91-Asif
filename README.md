@@ -56,6 +56,45 @@
 
 <br/>
 
+## 📌 Highlighted Repositories
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚛️ [React_YT](https://github.com/seaikh91-Asif/React_YT)
+React.js learning journey — JSX, hooks, props, forms, routing, and mini-projects, step by step.
+<br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+### ⚛️ [Master_Projects_React](https://github.com/seaikh91-Asif/Master_Projects_React)
+A growing collection of React projects, from basics to advanced, built to master the framework.
+<br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☕ [Basic__Java__Program](https://github.com/seaikh91-Asif/Basic__Java__Program)
+Structured suite of core Java programs to practice fundamentals and OOPs, step-by-step.
+<br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+</td>
+<td width="50%">
+
+### ☕ [Recursion_JAVA](https://github.com/seaikh91-Asif/Recursion_JAVA)
+Focused practice repository on recursion patterns and problem-solving in Java.
+<br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🚀 Projects
 
 | Project | Description | Tech Stack |
