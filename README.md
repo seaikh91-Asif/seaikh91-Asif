@@ -5,7 +5,7 @@
   
   <p>
    <a href="https://asif-portfoliowebsite-e17f6e.netlify.app"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a>
-    <a href="https://[leetcode.com/your-leetcode-username/](https://leetcode.com/u/Asif_00CD/)"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="[[https://[leetcode.com/your-leetcode-username/](https://leetcode.com/u/Asif_00CD/)](https://leetcode.com/u/Asif_00CD/)](https://leetcode.com/u/Asif_00CD/)"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
     <a href="https://linkedin.com/in/sekh-asif-dev"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2.5K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
     
     
