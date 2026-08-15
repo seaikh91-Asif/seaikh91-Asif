@@ -16,14 +16,13 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently deep diving into **Full-Stack Development (React, JS)** and mastering **Java with a strong foundation in OOPs & DSA**.
-- 💻 Always building! Recently developed a **Modern Coffee Website** and currently refining a **Food Lover** delivery web app.
-- 🚀 Always ready for a challenge — recently participated in the **Innovate Arena** hackathon.
-- 🔥 On a constant grind on **LeetCode** (maintaining solid streaks and solving 50+ problems).
-- 🎨 Passionate about **UI/UX design**, responsive layouts, and bringing modern website aesthetics to life.
-- ⚡ Fun fact: I love crafting clean, interactive animations and making pixel-perfect user interfaces!
-
-<br/>
+- 🎓 Second-year CSE student at AIEM, MAKAUT (West Bengal)
+- 🌱 Deep-diving into Full-Stack Development with React & JavaScript, backed by a strong Java / OOPs / DSA foundation
+- 🔥 Day 80+/100 of the #100DaysOfLeetCode challenge — 100+ problems solved, 1,480 contest rating
+- 🏅 500+ GitHub contributions this year across consistently maintained repos
+- 🚀 Hackathon experience from Innovate Arena, always up for the next one
+- 🎨 Passionate about UI/UX, responsive layouts, and pixel-perfect animated interfaces
+- 💬 Open to collaborating on open-source projects and connecting with fellow developers<br/>
 
 ## 🛠️ My Tech Stack
 
