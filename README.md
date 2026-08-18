@@ -61,6 +61,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|:---:|
+| [Employee Management System](https://github.com/seaikh91-Asif/employee-managment-system) | A modern, role-based Employee Management System with task lifecycle management and a Pinterest-inspired UI | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | [Asif Portfolio Website](https://asif-portfoliowebsite-e17f6e.netlify.app) | Personal portfolio with smooth scroll reveals, custom animations, and a working contact form via EmailJS | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=flat-square&logo=maildotru&logoColor=white) |
 | [React_YT](https://github.com/seaikh91-Asif/React_YT) | Ongoing collection of React concepts and mini-builds while learning React from the ground up | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | [Master_Projects_React](https://github.com/seaikh91-Asif/Master_Projects_React) | A growing collection of React projects, from basics to advanced, built to master the framework | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
@@ -71,6 +72,7 @@
 | Responsive Delivery Website | Modern, fully responsive food delivery landing page with dark/light mode and scroll animations | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | Nike Jacket Landing Page | Premium, fully responsive jacket store landing page with a smooth sliding effect | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | Innovate Arena | Project built during the Innovate Arena hackathon | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
 
 <p align="center"><i>🔍 More on my <a href="https://github.com/seaikh91-Asif?tab=repositories">GitHub repositories</a></i></p>
 
